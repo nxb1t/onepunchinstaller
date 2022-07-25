@@ -15,7 +15,7 @@ ropper       setoolkit  sonic-visualiser
 sqlmap      stegseek   steghide   	stegsnow  
 stegsolve.jar  tcpflow   testdisk  unix-privesc-check  
 volatility  wireshark    wordlists  wordpresscan 
-zbar-tools    zenmap  	   zsteg 	 peepdf
-aLEAPP		  iLEAPP	  autopsy    pwntools
-Vol-GUI		  scapy		  stegolsb   bulk_extractor
+zbar-tools   zenmap      zsteg 	 peepdf
+aLEAPP       iLEAPP      autopsy    pwntools
+Vol-GUI      scapy      stegolsb   bulk_extractor
 ```
