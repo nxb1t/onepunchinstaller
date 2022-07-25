@@ -3,17 +3,19 @@ Install mostly used pentesting and CTF tools in Ubuntu 18.04 without adding any 
 # Tools
 ```
 aircrack-ng   apktool   arp-scan   audacity
-binwalk      cherrytree   crunch   dex2jar   
-dirbuster     dirsearch  dnsenum   dnsmap
-enum4linux    fcrackzip  foremost    gdb
-ghidra        gitools    gobuster  hashcat
-hping3         hydra     jd-gui     john
+binwalk       crunch   dex2jar   dirbuster     
+dirsearch  dnsenum   dnsmap     enum4linux
+fcrackzip  foremost    gdb       ghidra
+gitools    gobuster  hashcat      exiftool
+hping3         hydra     jadx	   john
 johnny      joomscan   linenum.sh  metasploit-framework
 nikto          nmap      pdfcrack    peda  
 pngcheck      radare2    recon-ng  ROPGadget  
 ropper       setoolkit  sonic-visualiser 
-sqlmap      stegcracker  steghide   stegsnow  
-stegsolve.jar  tcpflow   testdisc  unix-privesc-check  
+sqlmap      stegseek   steghide   	stegsnow  
+stegsolve.jar  tcpflow   testdisk  unix-privesc-check  
 volatility  wireshark    wordlists  wordpresscan 
-zbar-tools  zenmap  zsteg
+zbar-tools    zenmap  	   zsteg 	 peepdf
+aLEAPP		  iLEAPP	  autopsy    pwntools
+Vol-GUI		  scapy		  stegolsb   bulk_extractor
 ```
