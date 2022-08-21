@@ -29,7 +29,7 @@ banner() {
  ⣼⣿⠍⠉⣿⡭⠉⠙⢺⣇⣼⡏⠀⠀⠀⣄⢸⠀⠀⠀⠀⠀⠀
  ⣿⣿⣧⣀⣿………⣀⣰⣏⣘⣆⣀⠀⠀ ${RESET}"
 	
-	echo -e "$(greenprint ' OnePunchInstaller r3l04d3d')"
+	echo -e "$(greenprint ' OnePunchInstaller')"
 	echo -e "$(magentaprint ' Developer : D3v1LaL')"
 	echo -e "$(magentaprint ' Contributor : nxb1t')"
 }
@@ -658,8 +658,8 @@ $(redprint ' 0)') Exit
 			list_tools | less
 			;;
 		2)
-			install_pen_dependencies
-			install_pen_tools
+			install_pentest_dependencies
+			install_pentest_tools
 			install_dfir_dependencies
 			install_dfir_tools
 			;;
@@ -672,8 +672,8 @@ $(redprint ' 0)') Exit
 			read -r c
 			case $c in
 				1)
-					install_pen_dependencies
-					install_pen_tools
+					install_pentest_dependencies
+					install_pentest_tools
 					;;
 				2)
 					install_dfir_dependencies
